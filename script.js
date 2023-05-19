@@ -14,13 +14,13 @@ class Animal {
 
 class Dog extends Animal {
   bark() {
-    console.log("Woof");
+    console.log("woof");
   }
 }
 
 class Cat extends Animal {
   purr() {
-    console.log("Purr");
+    console.log("purr");
   }
 }
 // Do not change the code below this line
